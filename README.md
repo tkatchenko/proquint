@@ -1,0 +1,1 @@
+This program reads a string from standard input, converts it to its Proquint representation—a readable and pronounceable encoding of binary data—and outputs the result to standard output, making it suitable for use in Unix pipelines.
